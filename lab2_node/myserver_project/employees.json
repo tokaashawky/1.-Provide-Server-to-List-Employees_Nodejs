@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "toka",
+    "email": "toka@example.com",
+    "salary": "4500",
+    "level": "Jr",
+    "yearsOfExperience": "5"
+  },
+  {
+    "id": 2,
+    "name": "Amr",
+    "email": "amr@gmail.com",
+    "salary": "10000",
+    "level": "Mid-Level",
+    "yearsOfExperience": "0"
+  },
+  {
+    "id": 3,
+    "name": "ali",
+    "email": "ali@gmail.com",
+    "salary": "10000",
+    "level": "Jr",
+    "yearsOfExperience": "5"
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "salary": "5000",
+    "level": "Jr",
+    "yearsOfExperience": "2"
+  },
+  {
+    "id": 5,
+    "name": "Doe",
+    "email": "doe@example.com",
+    "salary": "5000",
+    "level": "Jr",
+    "yearsOfExperience": "2"
+  },
+  {
+    "id": 6,
+    "name": "salma",
+    "email": "salma@gmail.com",
+    "salary": "15000",
+    "level": "Jr",
+    "yearsOfExperience": "0"
+  },
+  {
+    "id": 7,
+    "name": "nada",
+    "email": "nada@gmail.com",
+    "salary": "1452",
+    "level": "Jr",
+    "yearsOfExperience": "0"
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "salary": 5000,
+    "level": "Mid",
+    "yearsOfExperience": 3
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "salary": 5000,
+    "level": "Mid",
+    "yearsOfExperience": 3
+  }
+]
